@@ -1,1 +1,0 @@
-## nosho.js - Time variant
